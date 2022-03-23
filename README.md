@@ -1,2 +1,2 @@
 # Introduction-to-Data-Science
-some **MLR** works on jupyter notebook.
+some **linear regression** works on jupyter notebook.
